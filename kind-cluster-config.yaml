@@ -5,3 +5,5 @@ nodes:
 - role: control-plane
 - role: worker
 - role: worker
+
+# command to execute "kind create cluster --config kind-cluster-config.yaml"
